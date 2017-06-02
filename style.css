@@ -1,0 +1,80 @@
+.container{
+    background: #a8ccd7;
+}
+
+
+#logo{
+    width: 500px;
+    height: 150px;
+    padding: 20px;
+    
+}
+#flogo{
+    width: 1000px;;
+    height: 100px;
+    margin-top: 50px;
+}
+.navbar-inverse li{
+
+    list-style: none;
+    display: inline;
+    padding: 20px;
+    float: right;
+    font-family: serif;
+    font-size: 20px;
+
+
+}
+.navbar-inverse a:hover{
+    text-decoration: none;  
+    font-weight: bolder;
+    color: red;
+    transition: all 0.40s;
+}
+.text-center{
+    font-size: medium;
+}
+.form-control{
+    margin-top: 52px;
+    width: 200px;
+    text-align: center;
+}
+.btn:hover{
+    background: red;
+    cursor:pointer;
+    transition: all 0.40s;
+}
+.table{
+    width: 500px;
+    margin-top: 30px;
+}
+.table tr:hover{
+    background-color: #a8ccd7;
+}
+
+#main-contain{
+ 
+}
+#singuptbl{
+    
+    margin: 0px auto;
+    float: none;
+}
+#btn{
+    padding:5px 15px; 
+    background: green;
+    color: white;
+    font-weight: bolder;
+    border:0 none;
+    
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+     
+    
+    margin-top: 5px;
+}
+#btn:hover{
+    background: red;
+    cursor:pointer;
+    transition: all 0.40s;
+}
